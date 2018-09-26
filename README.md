@@ -7,6 +7,7 @@ Benchmarks used in our FPGA'19 paper
 
 ### DIST_ITR and DIST_ITR_PARAM
 + Liu, Junyi, John Wickerson, and George A. Constantinides. "Loop splitting for efficient pipelining in high-level synthesis." 2016 IEEE 24th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM). IEEE, 2016.
++ Liu, Junyi, et al. "Polyhedral-based Dynamic Loop Pipelining for High-Level Synthesis." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 37.9 (2018): 1802-1815.
 
 ### PLUTO_TEMPLATE
 + Bondhugula, Uday Kumar. Effective automatic parallelization and locality optimization using the polyhedral model. Diss. The Ohio State University, 2008.
